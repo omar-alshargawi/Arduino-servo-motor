@@ -45,4 +45,4 @@ Real-time embedded control
 
 Omar Alshargawi
 
-🔗 LinkedIn Profile
+
